@@ -1,0 +1,13 @@
+main.bin
+main.elf
+main.list
+*.o
+mkromfs
+test-romfs.bin
+*.swp
+*~
+build
+output
+cscope.out
+exploit.bytes
+exploit.str
